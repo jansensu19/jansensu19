@@ -20,6 +20,8 @@
 - Able to operate After Effects well
   
 - My First Portofolio is https://cgscgs.000webhostapp.com/
+
+- linkedin.com/in/jansen-su-4a7471193
   
 <!---
 jansensu19/jansensu19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
