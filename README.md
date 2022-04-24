@@ -7,6 +7,8 @@
   
 - I'm currently focusing on Front-End Web Development I am a student majoring in Information Technology at the STMIK Mikroskil, Medan 
 
+- I'm graduated from STMIK Mikroskil, Medan with a Bachelor of Technology (S1)
+
 - Able to operate HTML5, CSS, JavaScript, React js
 
 - Successful working in a team environment, as well as independently
