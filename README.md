@@ -1,29 +1,32 @@
-- 👋 Hi, I’m @jansensu19
+# Hi there👋, @jansensu19 here. 
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning Front-End Website Development
-- 💞️ I’m looking to collaborate on Big Company for Website Development
 - 📫 How to reach me - jansen.zix@gmail.com - linkedin.com/in/jansen-su-4a7471193
 - Highly Motivated to constantly develop my skill in Video Editing, Programming and Web Design.
   
 - I'm currently focusing on Front-End Web Development I am a student majoring in Information Technology at the STMIK Mikroskil, Medan 
 
-- I'm graduated from STMIK Mikroskil, Medan with a Bachelor of Technology (S1)
+- I'm graduated from STMIK Mikroskil Medan, Indonesia with a Bachelor of Technology (S1)
 
-- Able to operate HTML5, CSS, JavaScript, React js
-
-- Successful working in a team environment, as well as independently
-
-- The ability to work under pressure and multi-task
-
-- The ability to follow instructions and deliver quality results
-
-- Able to operate Microsoft Office well
-
-- Able to operate After Effects well
-  
-- My First Portofolio is https://cgscgs.000webhostapp.com/
+- Currently learning Angular, TypeScript, Serverless
 
 - linkedin.com/in/jansen-su-4a7471193
+
+## Language & Tools Familiar With
+
+<p align="left">
+       <a href="#" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="AfterEffects" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="Photoshop" width="40" height="40"/> </a>
+     <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="40" height="40"/> </a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="TypeScript" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/195px-HTML5_logo_and_wordmark.svg.png" alt="TypeScript" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="TypeScript" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="TypeScript" width="40" height="40"/> </a>
+</p>
   
 <!---
 jansensu19/jansensu19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
