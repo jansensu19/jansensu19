@@ -10,8 +10,6 @@
 
 - Currently learning Angular, TypeScript, Serverless
 
-- linkedin.com/in/jansen-su-4a7471193
-
 ## Language & Tools Familiar With
 
 <p align="left">
