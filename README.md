@@ -1,7 +1,7 @@
 # Hi there👋, @jansensu19 here. 
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning Front-End Website Development
-- 📫 How to reach me - jansen.zix@gmail.com - <a href="linkedin.com/in/jansen-su-4a7471193" target="_blank">Jansen Su</a>
+- 📫 How to reach me - jansen.zix@gmail.com - <a href="https://linkedin.com/in/jansen-su-4a7471193" target="_blank">Jansen Su</a>
 - Highly Motivated to constantly develop my skill in Video Editing, Programming and Web Design.
   
 - I'm currently focusing on Front-End Web Development I am a student majoring in Information Technology at the STMIK Mikroskil, Medan 
