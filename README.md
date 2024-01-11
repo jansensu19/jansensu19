@@ -1,4 +1,4 @@
-# Hi there👋, @jansensu19 here. 
+# Hi there👋, Jansen Su here. 
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning Front-End Website Development
 - 📫 How to reach me - jansen.zix@gmail.com - <a href="https://linkedin.com/in/jansen-su-4a7471193" target="_blank">Jansen Su</a>
