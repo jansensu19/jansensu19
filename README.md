@@ -8,7 +8,7 @@
 
 - I'm graduated from STMIK Mikroskil Medan, Indonesia with a Bachelor of Technology (S1)
 
-- Currently learning Angular, TypeScript, Serverless
+- Currently learning Angular, TypeScript, React, RxJs
 
 ## Language & Tools Familiar With
 
