@@ -6,7 +6,7 @@
   
 - I'm currently focusing on Front-End Web Development I am a student majoring in Information Technology at the STMIK Mikroskil, Medan 
 
-- I'm graduated from STMIK Mikroskil Medan, Indonesia with a Bachelor of Technology (S1)
+- I'm graduated from Universitas Mikroskil Medan, Indonesia with a Bachelor of Technology (S1)
 
 - Currently learning Angular, TypeScript, React, RxJs
 
